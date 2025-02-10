@@ -116,10 +116,14 @@ To have Tautulli automatically call your script when it detects a new file in Pl
 
 ---
 
+
+**Enjoy automatically unmonitoring movies in Radarr!** If you find this useful, consider sharing your setup or improvements with the community. If you run into any issues, feel free to open an issue or pull request.
+
+
+---
+
 ## License
 
 This project is provided “as is” without warranty of any kind. You are free to use, modify, and distribute this code as per the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
-
-**Enjoy automatically unmonitoring movies in Radarr!** If you find this useful, consider sharing your setup or improvements with the community. If you run into any issues, feel free to open an issue or pull request.
