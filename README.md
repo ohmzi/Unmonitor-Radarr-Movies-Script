@@ -1,5 +1,6 @@
 # Unmonitor-Radarr-Movies-Script
-This script unmonitors new Plex movies in Radarr upon Tautulli detection, setting the movie’s status to 'False' and stopping future upgrades. Configure Tautulli’s 'Recently Added' to pass the movie title, and the script handles unmonitoring automatically.
+This script resolves an issue with Radarr’s detection of newly added movie files. 
+When Tautulli detects a new Plex movie, the script automatically unmonitors it in Radarr—setting its status to "False" to prevent further searches and upgrades. Simply configure Tautulli’s "Recently Added" feature to pass the movie title, and the script will handle the rest automatically.
 
 
 ---
